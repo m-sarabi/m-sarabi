@@ -12,7 +12,11 @@
   - Walk in the nature
   - Read The Lord of the Rings book I bought recently
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sarabi&show_icons=true&theme=dark&hide=prs&rank_icon=percentile)
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sarabi&show_icons=true&count_private=true&hide=prs&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+
+</div>
 
 ## 📞𝓗𝓸𝔀 𝓣𝓸 𝓡𝓮𝓪𝓬𝓱 𝓜𝓮:
 - [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/telegram.png" width="30em">&nbsp;&nbsp;<b>@MSarabi</b>](https://t.me/MSarabi)
