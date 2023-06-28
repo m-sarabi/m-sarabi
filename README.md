@@ -13,7 +13,7 @@
   - Read The Lord of the Rings book I bought recently
 
 ## 📞𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮:
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/telegram.png" width="30em"> @MSarabi](https://t.me/MSarabi)
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/gmail.png" width="30em"> m.sarabi.jkd@gmail.com](mailto:m.sarabi.jkd@gmail.com)
+- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/telegram.png" width="30em">&nbsp;&nbsp;<b>@MSarabi</b>](https://t.me/MSarabi)
+- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/gmail.png" width="30em">&nbsp;&nbsp;<b>m.sarabi.jkd@gmail.com</b>](mailto:m.sarabi.jkd@gmail.com)
 
 - [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/social-media.png" width="40em">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/equal.png" width="40em">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/flask.png" width="40em">](https://www.youtube.com/watch?v=bCeWncuIfoc)
