@@ -4,7 +4,7 @@
 - I like Python and its simplicity, worked as a data analyst
 - I like taking care of Plants🍀 on my desk
 
-## 💡𝓦𝓱𝓪𝓽 𝓘'𝓶 𝓾𝓹 𝓽𝓸:
+## 💡𝓦𝓱𝓪𝓽 𝓘'𝓶 𝓤𝓹 𝓣𝓸:
 - I'm currently learning web development🌐
 - Even though I'm skinny but I workout🏋️ every day to stay in shape and grow those muscles💪
 - I love creating games🎮 and am planning to create some educational🎓 games once I am done with learning
@@ -12,7 +12,9 @@
   - Walk in the nature
   - Read The Lord of the Rings book I bought recently
 
-## 📞𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sarabi&show_icons=true&theme=dark&hide=prs&rank_icon=percentile)
+
+## 📞𝓗𝓸𝔀 𝓣𝓸 𝓡𝓮𝓪𝓬𝓱 𝓜𝓮:
 - [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/telegram.png" width="30em">&nbsp;&nbsp;<b>@MSarabi</b>](https://t.me/MSarabi)
 - [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/gmail.png" width="30em">&nbsp;&nbsp;<b>m.sarabi.jkd@gmail.com</b>](mailto:m.sarabi.jkd@gmail.com)
 
