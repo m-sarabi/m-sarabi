@@ -39,12 +39,15 @@
 
 ## 📞𝓗𝓸𝔀 𝓣𝓸 𝓡𝓮𝓪𝓬𝓱 𝓜𝓮:
 
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/telegram.png" width="30em" align="left"><table align="left"><tr><td><b>@MSarabi</b></td></tr></table>](https://t.me/MSarabi)
+- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/telegram.png" width="30" align="left"><table align="left"><tr><td><b>@MSarabi</b></td></tr></table>](https://t.me/MSarabi)
 <hr>
 
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/gmail.png" width="30em" align="left"><table align="left"><tr><td><b>m.sarabi.jkd@gmail.com</b></td></tr></table>](mailto:m.sarabi.jkd@gmail.com)
+- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/gmail.png" width="30" align="left"><table align="left"><tr><td><b>m.sarabi.jkd@gmail.com</b></td></tr></table>](mailto:m.sarabi.jkd@gmail.com)
 <hr>
 
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/social-media.png" width="40em">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/equal.png" width="40em">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/flask.png" width="40em">](https://www.youtube.com/watch?v=bCeWncuIfoc)
+- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/loudspeaker.png" width="30" align="left"><table align="left"><tr><td><b>Telegram Channel: @msarabi_chnl</b></td></tr></table>](https://t.me/msarabi_chnl)
+<hr>
+
+- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/social-media.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/equal.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/flask.png" width="40">](https://www.youtube.com/watch?v=bCeWncuIfoc)
 
 </footer>
