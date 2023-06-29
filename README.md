@@ -47,9 +47,9 @@
 
 
 ## 📱𝓢𝓸𝓬𝓲𝓪𝓵 𝓜𝓮𝓭𝓲𝓪:
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/loudspeaker.png" width="30" align="left"><table align="left"><tr><td><b>Telegram Channel: @msarabi_chnl</b></td></tr></table>](https://t.me/msarabi_chnl)
+- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/loudspeaker2.png" width="30" align="left"><table align="left"><tr><td><b>Telegram Channel: @msarabi_chnl</b></td></tr></table>](https://t.me/msarabi_chnl)
 <hr>
 
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/social-media.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/equal.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/flask.png" width="40">](https://www.youtube.com/watch?v=bCeWncuIfoc)
+- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/social-media2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/equal2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/poison.png" width="40">](https://www.youtube.com/watch?v=bCeWncuIfoc)
 
 </footer>
