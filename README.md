@@ -45,6 +45,8 @@
 - [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/gmail.png" width="30" align="left"><table align="left"><tr><td><b>m.sarabi.jkd@gmail.com</b></td></tr></table>](mailto:m.sarabi.jkd@gmail.com)
 <hr>
 
+
+## 📱𝓢𝓸𝓬𝓲𝓪𝓵 𝓜𝓮𝓭𝓲𝓪:
 - [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/loudspeaker.png" width="30" align="left"><table align="left"><tr><td><b>Telegram Channel: @msarabi_chnl</b></td></tr></table>](https://t.me/msarabi_chnl)
 <hr>
 
