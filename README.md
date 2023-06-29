@@ -20,6 +20,7 @@
 - Even though I'm skinny but I workout🏋️ every day to stay in shape and grow those muscles💪
 - I love creating games🎮 and am planning to create some educational🎓 games once I am done with learning
 - I love to...
+  - Be silly
   - Walk in the nature
   - Read The Lord of the Rings book I bought recently
 
