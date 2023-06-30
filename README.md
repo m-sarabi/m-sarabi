@@ -53,6 +53,6 @@
 
 - [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/social-media2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/equal2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/poison.png" width="40">](https://www.youtube.com/watch?v=bCeWncuIfoc)
 
-![snake gif](https://raw.githubusercontent.com/m-sarabi/m-sarabi/a17baf9fd4a03ff98138b5dc42693374c697c34b/github-snake-dark.svg)
+![snake gif](https://github.com/m-sarabi/m-sarabi/blob/output/github-snake-dark.svg)
 
 </footer>
