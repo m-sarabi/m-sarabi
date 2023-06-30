@@ -40,18 +40,18 @@
 
 ## 📞𝓗𝓸𝔀 𝓣𝓸 𝓡𝓮𝓪𝓬𝓱 𝓜𝓮:
 
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/telegram.png" width="30" align="left"><table align="left"><tr><td><b>@MSarabi</b></td></tr></table>](https://t.me/MSarabi)
+- [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/telegram.png" width="30" align="left"><table align="left"><tr><td><b>@MSarabi</b></td></tr></table>](https://t.me/MSarabi)
 <hr>
 
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/gmail.png" width="30" align="left"><table align="left"><tr><td><b>m.sarabi.jkd@gmail.com</b></td></tr></table>](mailto:m.sarabi.jkd@gmail.com)
+- [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/gmail.png" width="30" align="left"><table align="left"><tr><td><b>m.sarabi.jkd@gmail.com</b></td></tr></table>](mailto:m.sarabi.jkd@gmail.com)
 <hr>
 
 
 ## 📱𝓢𝓸𝓬𝓲𝓪𝓵 𝓜𝓮𝓭𝓲𝓪:
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/loudspeaker2.png" width="30" align="left"><table align="left"><tr><td><b>Telegram Channel: @msarabi_chnl</b></td></tr></table>](https://t.me/msarabi_chnl)
+- [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/loudspeaker2.png" width="30" align="left"><table align="left"><tr><td><b>Telegram Channel: @msarabi_chnl</b></td></tr></table>](https://t.me/msarabi_chnl)
 <hr>
 
-- [<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/social-media2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/equal2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/m-sarabi/m-sarabi/main/Media/poison.png" width="40">](https://www.youtube.com/watch?v=bCeWncuIfoc)
+- [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/social-media2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/equal2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/poison.png" width="40">](https://www.youtube.com/watch?v=bCeWncuIfoc)
 
 ![snake gif](https://github.com/m-sarabi/m-sarabi/blob/output/github-snake-dark.svg)
 
