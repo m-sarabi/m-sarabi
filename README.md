@@ -50,6 +50,10 @@
 
 <hr>
 
+- [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/web.png" width="30" align="left"><table align="left"><tr><td><b>Personal website (playground rn!)</b></td></tr></table>](https://m-sarabi.ir/)
+
+<hr>
+
 ## 📱𝓢𝓸𝓬𝓲𝓪𝓵 𝓜𝓮𝓭𝓲𝓪:
 
 - [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/loudspeaker2.png" width="30" align="left"><table align="left"><tr><td><b>Telegram Channel: @msarabi_chnl</b></td></tr></table>](https://t.me/msarabi_chnl)
