@@ -30,7 +30,7 @@
 <td>
 <div align="right">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sarabi&show_icons=true&count_private=true&hide=prs&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+![](https://github-readme-stats.vercel.app/api?username=m-sarabi&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=prs&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)<br/>
 
 </div>
 </td>
