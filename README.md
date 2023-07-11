@@ -5,7 +5,7 @@
 
 - Hi👋 My name is Mohammad and I ❤️ Programming💻, Fitness🏃, watching Movies🎥 and Art🎨
 - I live in Iran 🇮🇷 and I try to fight for the freedom of my country from clerics if I can
-- I like Python and its simplicity, worked as a data analyst
+- I like Python and its simplicity, I worked as a data analyst for a while
 - I like taking care of the Plants🍀 on my desk
 
 </td></tr>
