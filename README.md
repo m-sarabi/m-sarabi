@@ -68,7 +68,7 @@
 ![snake gif](https://github.com/m-sarabi/m-sarabi/blob/output/github-snake-dark.svg)
 <div align="center">
 
-<a href="https://github.com/m-sarabi"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/m-sarabi?style=plastic&logo=coveralls&label=%20&labelColor=gold"></a><br>
+<a href="https://github.com/m-sarabi"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/m-sarabi?style=plastic&logo=apachespark&logoColor=gold&labelColor=%23222222"></a><br>
 <a href="https://t.me/MSarabi"><img alt="Static Badge" src="https://img.shields.io/badge/-MSarabi-blue?style=plastic&logo=telegram&labelColor=cyan"></a><br>
 [![](https://visitcount.itsvg.in/api?id=m-sarabi&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)<br>
 
