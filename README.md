@@ -21,17 +21,19 @@
 - I'm currently learning web development🌐
 - Even though I'm skinny but I workout🏋️ every day to stay in shape and grow those muscles💪
 - I love creating games🎮 and I am planning to create some educational🎓 games once I am done with the learning
-- I love to...
-    - Be silly
-    - Walk in the nature
-    - Read The Lord of the Rings book I bought recently
+- <details open><summary>I love to...</summary>
+    <ul>
+    <li>Be silly</li>
+    <li>Walk in the nature</li>
+    <li>Read The Lord of the Rings book I bought recently</li>
+    </ul>
+</details>
 
 </td>
 <td>
 <div align="right">
 
-![m-sarabi's Stats](https://github-readme-stats.vercel.app/api?username=m-sarabi&theme=midnight-purple&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=AC07EE&text_color=D3D3D3&ring_color=AC07EE&bg_color=0,000000,130F40&PAT_1)<br>
-
+![m-sarabi's Stats](https://github-readme-stats-git-master-m-sarabi.vercel.app/api?username=m-sarabi&theme=midnight-purple&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=AC07EE&text_color=D3D3D3&ring_color=AC07EE&bg_color=0,000000,130F40)<br>
 ![m-sarabi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-sarabi&theme=midnight-purple&hide_border=true&ring=AC07EE&fire=AC07EE&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=7A7ADB&background=0,130F40,000000)<br>
 
 
