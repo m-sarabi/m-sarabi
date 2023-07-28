@@ -35,7 +35,7 @@
 
 
 ![m-sarabi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-sarabi&theme=midnight-purple&hide_border=true&ring=AC07EE&fire=AC07EE&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=7A7ADB&background=0,130F40,000000)<br>
-![m-sarabi's Stats](https://github-readme-stats-git-master-m-sarabi.vercel.app/api?username=m-sarabi&theme=midnight-purple&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=AC07EE&text_color=D3D3D3&ring_color=AC07EE&bg_color=0,000000,130F40)<br>
+![m-sarabi's Stats](https://github-readme-stats.vercel.app/api?username=m-sarabi&theme=midnight-purple&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=AC07EE&text_color=D3D3D3&ring_color=AC07EE&bg_color=0,000000,130F40)<br>
 
 
 </div>
