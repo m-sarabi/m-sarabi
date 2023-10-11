@@ -68,7 +68,7 @@
 
 - [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/social-media2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/equal2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/poison.png" width="40">](https://www.youtube.com/watch?v=bCeWncuIfoc)
 
-![snake gif](https://github.com/m-sarabi/m-sarabi/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/m-sarabi/m-sarabi/blob/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
 
 <a href="https://github.com/m-sarabi"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/m-sarabi?style=plastic&logo=apachespark&logoColor=gold&labelColor=%23222222"></a><br>
