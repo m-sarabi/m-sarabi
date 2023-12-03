@@ -1,6 +1,6 @@
 <table>
-<tr><td>
-
+<tr><td width="1920">
+    
 ## 🤵𝓐𝓫𝓸𝓾𝓽 𝓜𝓮:
 
 - Hi👋 My name is Mohammad and I ❤️ Programming💻, Fitness🏃, watching Movies🎥 and Art🎨
