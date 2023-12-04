@@ -18,9 +18,9 @@
 
 ## 💡𝓦𝓱𝓪𝓽 𝓘'𝓶 𝓤𝓹 𝓣𝓸:
 
-- I'm currently learning web development🌐
-- Even though I'm skinny but I workout🏋️ every day to stay in shape and grow those muscles💪
-- I love creating games🎮 and I am planning to create some educational🎓 games once I am done with the learning
+- I'm currently learning Django and Machine learning
+- Even though I'm skinny I workout🏋️ every day to stay in shape and grow those muscles💪
+- I love creating games🎮 and I am planning to create an educational🎓 gaming website once I am done with learning
 - <details open><summary>I love to...</summary>
     <ul>
     <li>Be silly</li>
