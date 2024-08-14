@@ -50,21 +50,21 @@
 
 - [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/telegram.png" width="30" align="left"><table align="left"><tr><td><b>@MSarabi</b></td></tr></table>](https://t.me/MSarabi)
 
-<hr>
+<hr>&nbsp;
 
 - [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/gmail.png" width="30" align="left"><table align="left"><tr><td><b>m.sarabi.jkd@gmail.com</b></td></tr></table>](mailto:m.sarabi.jkd@gmail.com)
 
-<hr>
+<hr>&nbsp;
 
 - [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/web.png" width="30" align="left"><table align="left"><tr><td><b>Personal website (playground rn!)</b></td></tr></table>](https://m-sarabi.ir/)
 
-<hr>
+<hr>&nbsp;
 
 ## 📱𝓢𝓸𝓬𝓲𝓪𝓵 𝓜𝓮𝓭𝓲𝓪:
 
 - [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/loudspeaker2.png" width="30" align="left"><table align="left"><tr><td><b>Telegram Channel: @msarabi_chnl</b></td></tr></table>](https://t.me/msarabi_chnl)
 
-<hr>
+<hr>&nbsp;
 
 - [<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/social-media2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/equal2.png" width="40">&nbsp;&nbsp;&nbsp;<img src="https://github.com/m-sarabi/m-sarabi/blob/main/Media/poison.png" width="40">](https://www.youtube.com/watch?v=bCeWncuIfoc)
 
