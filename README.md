@@ -8,6 +8,8 @@
 - I like Python and its simplicity, I worked as a data analyst for a while
 - I like taking care of the Plants🍀 on my desk
 
+$$ \lim_{x \to \infty } [\sum_{}^{}H\Delta RDWØRK]=GR\Xi\Delta TN\Xi SS $$
+
 </td></tr>
 </table>
 
