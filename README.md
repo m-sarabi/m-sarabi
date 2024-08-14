@@ -14,7 +14,7 @@
 <div align="center">
 <table>
 <tr>
-<td>
+<td width="1920">
 
 ## 💡𝓦𝓱𝓪𝓽 𝓘'𝓶 𝓤𝓹 𝓣𝓸:
 
@@ -30,25 +30,25 @@
 </details>
 
 </td>
-<td>
-<div align="right">
-
-
-![m-sarabi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-sarabi&theme=midnight-purple&hide_border=true&ring=AC07EE&fire=AC07EE&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=7A7ADB&background=60,130F40,000000)<br>
-![m-sarabi's Stats](https://github-readme-stats-ms.vercel.app/api?username=m-sarabi&theme=midnight-purple&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=AC07EE&text_color=D3D3D3&ring_color=AC07EE&bg_color=60,000000,130F40)<br>
-
-
-</div>
-</td>
 </tr>
 </table>
 </div>
-<br>
-<footer>
+
+<table><tr><td width="1920">
+    
+## 📈𝓜𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼:
+
 <div align="center">
     
-![Top Langs](https://github-readme-stats-ms.vercel.app/api/top-langs/?username=m-sarabi&layout=compact&theme=midnight-purple&hide_border=true&title_color=7A7ADB&icon_color=AC07EE&text_color=D3D3D3&ring_color=AC07EE&bg_color=90,000000,130F40)
+![m-sarabi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-sarabi&theme=midnight-purple&hide_border=true&border_radius=40&ring=AC07EE&fire=f35806&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=7A7ADB&background=0,130F40,000000&card_width=500)
+<br>
+![m-sarabi's Stats](https://github-readme-stats-ms.vercel.app/api?username=m-sarabi&theme=midnight-purple&hide_border=true&border_radius=40&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&line_height=20&title_color=7A7ADB&icon_color=AC07EE&text_color=D3D3D3&ring_color=AC07EE&bg_color=0,000000,130F40&card_width=500)
+<br>
+![Top Langs](https://github-readme-stats-ms.vercel.app/api/top-langs/?username=m-sarabi&layout=compact&theme=midnight-purple&hide_border=true&border_radius=40&title_color=7A7ADB&icon_color=AC07EE&text_color=D3D3D3&ring_color=AC07EE&bg_color=0,130F40,000000&card_width=500)
 </div>
+</td></tr></table>
+<br>
+<footer>
 
 ## 📞𝓗𝓸𝔀 𝓣𝓸 𝓡𝓮𝓪𝓬𝓱 𝓜𝓮:
 
