@@ -80,7 +80,7 @@ $$ \lim_{x \to \infty } [\sum_{}^{}H\Delta RDWØRK]=GR\Xi\Delta TN\Xi SS $$
 <a href="https://github.com/m-sarabi"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/m-sarabi?style=plastic&logo=apachespark&logoColor=gold&labelColor=%23222222"></a><br>
 <a href="https://t.me/MSarabi"><img alt="Static Badge" src="https://img.shields.io/badge/-MSarabi-blue?style=plastic&logo=telegram&labelColor=cyan"></a><br>
 [![](https://visitcount.itsvg.in/api?id=m-sarabi&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)<br>
-<a href="https://stackoverflow.com/users/6229615/m-sarabi"><img src="https://stackoverflow.com/users/flair/6229615.png?theme=dark" width="208" height="58" alt="profile for M-Sarabi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for M-Sarabi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackexchange.com/users/7582848"><img src="https://stackexchange.com/users/flair/7582848.png?theme=dark" width="208" height="58" alt="profile for m-sarabi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for m-sarabi on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
 </div>
